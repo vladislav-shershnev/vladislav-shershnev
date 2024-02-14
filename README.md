@@ -1,4 +1,4 @@
-### Hi there 👋
+### Одностраничник каталог пульсометров
  https://vladislav-shershnev.github.io/vladislav-shershnev/
 
 -  Маска ввода
